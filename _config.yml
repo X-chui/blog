@@ -11,7 +11,7 @@ name: 张艺璇
 description: 剥橘子到一半想吃西瓜
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://github.com/X-chui/blog
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -24,10 +24,10 @@ baseurl: /blog
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://tva1.sinaimg.cn/large/008eGmZEly1go16jdrmw3j30eg0een4m.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://tva1.sinaimg.cn/large/008eGmZEly1go16jdbo1kj302u02smxi.jpg
 
 
 # 菜单中的按钮
@@ -87,7 +87,7 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
+  repo: https://github.com/X-chui/blog.git # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
